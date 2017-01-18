@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovieApp</string>
+    <string name="most_popular_str">Most Popular</string>
+    <string name="highest_rate_str">Highest Rate</string>
+    <string name="progress_dialog_loading">Loading...</string>
+    <string name="no_network_message">Network currently not available</string>
+    <string name="close">Close</string>
+    <string name="release_date">Release date</string>
+    <string name="overview">Overview</string>
+    <string name="rate">Average rate</string>
+</resources>
